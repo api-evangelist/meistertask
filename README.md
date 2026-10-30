@@ -64,5 +64,102 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MeisterTask is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://www.meistertask.com
+MeisterTask is a secure work management SaaS platform that helps teams organize tasks, projects, and collaboration in a visual board format. It offers features such as task tracking, knowledge base, reporting, time tracking, and integrations, targeting productivity and agile workflows for businesses of all sizes. The service is GDPR compliant, EU‑based, and trusted by thousands of companies worldwide.
+
+**Areas:** Company · Software-as-a-Service · Project Management · Collaboration · Productivity
+
+## MeisterTask on APIs.io
+
+Everything profiled for MeisterTask is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/meistertask/](https://apis.io/providers/meistertask/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Meistertask Authentication](https://apis.io/security/meistertask/meistertask-authentication/)
+- [Meistertask Domain Security](https://apis.io/security/meistertask/meistertask-domain-security/)
+- [Meistertask Trust Center](https://apis.io/security/meistertask/meistertask-trust-center/)
+- [Meistertask Vulnerability Disclosure](https://apis.io/security/meistertask/meistertask-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Meistertask Plans Pricing](https://apis.io/plans/meistertask/meistertask-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Meistertask Rate Limits](https://apis.io/rate-limits/meistertask/meistertask-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.meistertask.com)
+- [Documentation](https://developers.meistertask.com/)
+- [Support](https://support.meistertask.com)
+- [Blog](https://www.meistertask.com/blog)
+- [Security](https://www.meistertask.com/pages/security)
+- [Compliance](https://www.meistertask.com/pages/pt/security)
+- [Terms of service](https://www.meistertask.com/pages/terms-conditions)
+- [Privacy policy](https://www.meistertask.com/pages/privacy)
+- [Status](https://status.meistertask.com/)
+
+## API Evangelist rating
+
+**Kin Score 36.3** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 68.4 |
+
+**Agent readiness 5.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/meistertask/](https://apis.io/providers/meistertask/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MeisterTask: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/meistertask/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
